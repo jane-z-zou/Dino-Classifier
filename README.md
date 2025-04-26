@@ -33,9 +33,9 @@ A simple dinosaur image classifier trained on a 15-class dataset (~100 images pe
 
 ## 📦 Files
 
-app.py — Gradio app for inference
-model.pkl — Pre-trained dinosaur classification model (saved with PyTorch)
-requirements.txt — Python dependencies
+- app.py — Gradio app for inference
+- model.pkl — Pre-trained dinosaur classification model (saved with PyTorch)
+- requirements.txt — Python dependencies
 
 ---
 
